@@ -1,2 +1,3 @@
-# bda-project-kit
-Open-source Beaver Dam Analogue (BDA) project kit for river restoration and salmon habitat recovery
+# Beaver Dam Analogue (BDA) Project Kit
+
+Open-source resources for Beaver Dam Analogue (BDA) design, construction, and monitoring to aid in river restoration and salmon habitat recovery. This repository provides standardized documentation, design templates, and data collection protocols for conservationists, researchers, and restoration practitioners working to reintroduce beavers and restore degraded river systems.
